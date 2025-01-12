@@ -1,3 +1,7 @@
+#personal
+/produtos_regionais/
+/logs/
+/logsLote/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
