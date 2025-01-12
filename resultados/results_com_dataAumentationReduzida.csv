@@ -1,0 +1,2 @@
+epochs,batch_size,learning_rate,optimizer,final_loss,final_accuuracy,loss,accuracy,val_loss,val_accuracy,history
+50,32,0.001,Adam,0.7765955924987793,0.671875,0.0008918890380300581,1.0,0.7765955924987793,0.671875,<keras.callbacks.History object at 0x000001F8001CD8D0>
