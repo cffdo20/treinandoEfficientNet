@@ -2,6 +2,9 @@
 /produtos_regionais/
 /logs/
 /logsLote/
+/models/
+/modelsLote/
+/dataset/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
